@@ -1,0 +1,11 @@
+.ssh
+
+*.swp
+*_debug_*
+
+node_modules/
+.env
+
+*.o
+*.out
+*.exe
